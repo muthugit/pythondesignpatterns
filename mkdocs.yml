@@ -6,3 +6,5 @@ theme:
     hljs_languages:
         - yaml
         - rust
+    font:
+        code: Roboto Mono
